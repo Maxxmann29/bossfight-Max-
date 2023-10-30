@@ -1,0 +1,2103 @@
+fileFormatVersion: 2
+guid: bdbc1e7e1bd7814479bff92e02a664f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireGIFforUnity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a7d9a7abc354643b1f8413ce5f4a79
+      internalID: -957187435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1211493316a3c41b395e49da397f57
+      internalID: 1705721219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bcb0a9f33777546b3e6e287cfa47ec
+      internalID: -14443689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686aa73e563073940866f0aad63accbc
+      internalID: 1367467790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0288415954330c439b49e060fbc3fae
+      internalID: -545182019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c32fe372a466cd4abe4ccbfd5563748
+      internalID: -1186199144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_6
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20e77d2a9e4a540b0c3109f1eff704
+      internalID: -1938583276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_7
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8453e5e721fc46b872d1facb02294
+      internalID: 694059874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_8
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea15e85ae47bc48809f3f81afb5232
+      internalID: -961636245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_9
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82b28177097624c8231a5338e51c3e
+      internalID: -545951537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_10
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a67d5db89f91f14e8e0f51813b4766d
+      internalID: -760544376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_11
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6bfc0f5695c14ca86fa5fa9e0b872
+      internalID: 1254045583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_12
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a872894c83e0f4db886546d5d0a05a
+      internalID: 1952313350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_13
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3b28d934fab1408238bc5b9720867
+      internalID: -170202795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_14
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b7bf8ed48ae3e4d964fd22adb91844
+      internalID: 1395363061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963b99f08ae671849a8907f0d86a26ec
+      internalID: -274008259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b6fe212b418c249a1181b4c872825c
+      internalID: -1462556285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0800c20befc6545a825424b140a821
+      internalID: -704116993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_18
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ebada4e152c25408af077e7bc59a36
+      internalID: -949917055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_19
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d1ee16d0c76e48bc7e9cb2ed66d8d
+      internalID: -440447052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_20
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32473ceb3eaed9046b1bfc78202673d9
+      internalID: -433810568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_21
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa081cd47c646e74397ee10942473bfc
+      internalID: 2142664622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_22
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d98cdc318afb6418cbafa71324d554
+      internalID: -1234789097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_23
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c6a03da41ccdd4b874356f0fc27007
+      internalID: -1170780233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_24
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b9dc058188ec4ca2bf468e6a78506
+      internalID: 78599664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_25
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b94393f4fea7428a0e4caf1a0303f
+      internalID: -1163151287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_26
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dfcf27703a0c14da248cd0fca75eee
+      internalID: 1298663147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_27
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe57955191b5d14a90a98105bfeb64c
+      internalID: 655769223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_28
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ddea16f10582c4eb0374265917e6f8
+      internalID: -1371535708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_29
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1000
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaef1d34274b0a47bada75c1a72fd3f
+      internalID: 976866393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba51cba4877f5f41a3c971508448ed6
+      internalID: 1451875381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d37558c05d904eab658cff51c298f
+      internalID: 1865231146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2ee3946b60a540af2ab15a6a1baee
+      internalID: 1221877431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7165d193570b345ace8d8b3c19797f
+      internalID: 606370818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a60e8a202718b44ae99d3258236903
+      internalID: -1403554850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_35
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cad7ef40072594e8f132af79d22a77
+      internalID: 75774039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_36
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd34e26f74978140af2f35f5e4d2f00
+      internalID: -632714099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_37
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9c41456f76a1446ab39eb2fd8b0ee1
+      internalID: 1826499653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_38
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c1e14f2bc3424a85ea4ecbf86eb7f
+      internalID: 1600721656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_39
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f7788897f3ab4a83b57f04aaf265b
+      internalID: 8594178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_40
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30151c3d3a02df945bc5983eaa9a8d8a
+      internalID: 899015335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_41
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3093058c42a054b8838c6886b79e49
+      internalID: 1114794104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_42
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38082cafba7f3d14d8cdd621564a707b
+      internalID: 440492472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_43
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc207f61ece3b469ae84c26cb682e0
+      internalID: -492212211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_44
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628fcb0c8eaa18248816f56ab2f4e6a3
+      internalID: 924728357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765055a9407d92d42825b09c74e824a3
+      internalID: -1185468102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df111ffc9dd7ac4989c8020f722d9c8
+      internalID: -438129612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a55b4d63d9a254284e7c008e857ec5
+      internalID: -748563418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_48
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72775c09f18720947b845855957b02f2
+      internalID: -1263895138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_49
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72057f71456f4db489f2e89a00bfe8df
+      internalID: 1482831039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0624f5948af1a784687607cd3433046f
+      internalID: -1778539243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_51
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdc1cf4081afe9448dd162435eceea5
+      internalID: -1722461233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_52
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba2377e681e594ab3f4705c2f3c955
+      internalID: -343075829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_53
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd837cccea1b8347aac080a06c8d7fe
+      internalID: 1056207180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_54
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e049c0bd4fa8946a0b8238bd599611
+      internalID: 792685331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_55
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e52ab93e938a4e93081a448182028
+      internalID: -735964650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_56
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa8ab5590718f7409d2d6ee68b29eb4
+      internalID: 1114691681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_57
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414552dbcb5562f4da7973923614507e
+      internalID: -487319918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_58
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7ebdfc704dcb409d2ac495777dd08
+      internalID: -875808486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_59
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8cf61eb4952bb41bfb0043a1435a0e
+      internalID: -552528186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7a55073f58d642a7530b1852157fb
+      internalID: 667939041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bd11c964cff2429ec23ecfa2a72ad
+      internalID: 1035615828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_62
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a367b7e917a74f952f2aa0377e128
+      internalID: -624295767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc30baae2eb08c7479a8742c5458dcf7
+      internalID: 57761667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_64
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b016a96933e6214ab923e494e4e32f9
+      internalID: -462253943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_65
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6d795af98b9d34b82fc2f2cae37606
+      internalID: -904306960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_66
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752e3edbb6126104fb8cf3e156a8c15c
+      internalID: -1482986794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_67
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fba49ed8c7f064a93817e147d06ab4
+      internalID: 1680327680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_68
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c34b02d8cec4f4b8fcf78ca688f72b
+      internalID: -774897930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_69
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2019207fe1e09794ea5f0821b4ef3946
+      internalID: 1932639641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_70
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c5b3acc8ed6454f910758fa03c743c
+      internalID: -85189020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_71
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e78488ca1db74faf32165ae03a0ad
+      internalID: -1608976959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_72
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de742e59f96834785f55f03cd2c1c4
+      internalID: -1797725533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_73
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b70daa5386ed49b627fdca797fdcc
+      internalID: 1208755807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_74
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8cd748e6dd9f40bf154d211cc4713
+      internalID: -674090967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e0ba1176818ae47a7fb7bb5a807819
+      internalID: 1107656750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88b283126a72649a859d0eabd3a584
+      internalID: 1052752337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10abc7e2761b54a8b0d24452046005
+      internalID: 2060564580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_78
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ce2764bc04c649b271e987cd7a17d
+      internalID: -1929008328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_79
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8108e92c2ef5c4faa967fbd491775b
+      internalID: -527330251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_80
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101ddaff6553eaf46a2748e77c64f950
+      internalID: 929975970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_81
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370fcc7a79a842d49a5ddc7214d4f788
+      internalID: -2102215788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_82
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343b154a9ac811469ba57f92fcd8ed9
+      internalID: 113801743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_83
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64184d23b594d14898a7b304590540a
+      internalID: -135006340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_84
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426ddfdf618b86a4580fb12bd8dcbe04
+      internalID: 347871710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_85
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ec31c5b1d4264ba85581b576f54b6
+      internalID: -1473398657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_86
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ac1edc56852594eb133ed9a0361c6e
+      internalID: 625626099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_87
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef0e6a538b65e547900f7a98264464a
+      internalID: 1597667566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_88
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34527396328d74e854f5246ae86bd6
+      internalID: 2083871547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGIFforUnity_89
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 120
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcdc2a8acb226a4e958cff6d080ff6c
+      internalID: -573171299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 62d5d65142c026c499fca7280009fc08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FireGIFforUnity_20: -433810568
+      FireGIFforUnity_12: 1952313350
+      FireGIFforUnity_27: 655769223
+      FireGIFforUnity_32: 1221877431
+      FireGIFforUnity_35: 75774039
+      FireGIFforUnity_14: 1395363061
+      FireGIFforUnity_50: -1778539243
+      FireGIFforUnity_53: 1056207180
+      FireGIFforUnity_75: 1107656750
+      FireGIFforUnity_89: -573171299
+      FireGIFforUnity_39: 8594178
+      FireGIFforUnity_42: 440492472
+      FireGIFforUnity_33: 606370818
+      FireGIFforUnity_69: 1932639641
+      FireGIFforUnity_29: 976866393
+      FireGIFforUnity_36: -632714099
+      FireGIFforUnity_63: 57761667
+      FireGIFforUnity_82: 113801743
+      FireGIFforUnity_86: 625626099
+      FireGIFforUnity_8: -961636245
+      FireGIFforUnity_60: 667939041
+      FireGIFforUnity_40: 899015335
+      FireGIFforUnity_56: 1114691681
+      FireGIFforUnity_55: -735964650
+      FireGIFforUnity_3: 1367467790
+      FireGIFforUnity_84: 347871710
+      FireGIFforUnity_17: -704116993
+      FireGIFforUnity_61: 1035615828
+      FireGIFforUnity_80: 929975970
+      FireGIFforUnity_25: -1163151287
+      FireGIFforUnity_31: 1865231146
+      FireGIFforUnity_4: -545182019
+      FireGIFforUnity_26: 1298663147
+      FireGIFforUnity_70: -85189020
+      FireGIFforUnity_15: -274008259
+      FireGIFforUnity_62: -624295767
+      FireGIFforUnity_67: 1680327680
+      FireGIFforUnity_85: -1473398657
+      FireGIFforUnity_22: -1234789097
+      FireGIFforUnity_59: -552528186
+      FireGIFforUnity_0: -957187435
+      FireGIFforUnity_13: -170202795
+      FireGIFforUnity_24: 78599664
+      FireGIFforUnity_51: -1722461233
+      FireGIFforUnity_9: -545951537
+      FireGIFforUnity_47: -748563418
+      FireGIFforUnity_46: -438129612
+      FireGIFforUnity_34: -1403554850
+      FireGIFforUnity_83: -135006340
+      FireGIFforUnity_41: 1114794104
+      FireGIFforUnity_18: -949917055
+      FireGIFforUnity_71: -1608976959
+      FireGIFforUnity_65: -904306960
+      FireGIFforUnity_54: 792685331
+      FireGIFforUnity_10: -760544376
+      FireGIFforUnity_43: -492212211
+      FireGIFforUnity_28: -1371535708
+      FireGIFforUnity_44: 924728357
+      FireGIFforUnity_88: 2083871547
+      FireGIFforUnity_73: 1208755807
+      FireGIFforUnity_66: -1482986794
+      FireGIFforUnity_72: -1797725533
+      FireGIFforUnity_30: 1451875381
+      FireGIFforUnity_58: -875808486
+      FireGIFforUnity_16: -1462556285
+      FireGIFforUnity_45: -1185468102
+      FireGIFforUnity_57: -487319918
+      FireGIFforUnity_19: -440447052
+      FireGIFforUnity_78: -1929008328
+      FireGIFforUnity_49: 1482831039
+      FireGIFforUnity_5: -1186199144
+      FireGIFforUnity_11: 1254045583
+      FireGIFforUnity_81: -2102215788
+      FireGIFforUnity_21: 2142664622
+      FireGIFforUnity_52: -343075829
+      FireGIFforUnity_7: 694059874
+      FireGIFforUnity_37: 1826499653
+      FireGIFforUnity_1: 1705721219
+      FireGIFforUnity_48: -1263895138
+      FireGIFforUnity_74: -674090967
+      FireGIFforUnity_2: -14443689
+      FireGIFforUnity_23: -1170780233
+      FireGIFforUnity_38: 1600721656
+      FireGIFforUnity_79: -527330251
+      FireGIFforUnity_6: -1938583276
+      FireGIFforUnity_64: -462253943
+      FireGIFforUnity_77: 2060564580
+      FireGIFforUnity_87: 1597667566
+      FireGIFforUnity_68: -774897930
+      FireGIFforUnity_76: 1052752337
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

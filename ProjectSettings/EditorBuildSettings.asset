@@ -4,4 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Patrolling Phase.unity
+    guid: de88c27c830e0084eb29673b5b7c87bc
+  - enabled: 1
+    path: Assets/Scenes/Battle Transition.unity
+    guid: e5d5825e8e44b8e4da1706f376bbc204
+  - enabled: 1
+    path: Assets/Scenes/Battle Phase.unity
+    guid: 91433fb8401461246b5818363b7ea039
+  m_configObjects: {}
